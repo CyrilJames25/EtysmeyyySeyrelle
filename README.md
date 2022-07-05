@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EtysmeyyySeyrelle
+- 👋 Hi, I’m Cyril25
 - 👀 I’m interested in ... Databasing
 - 🌱 I’m currently learning ...Computer Science
 - 💞️ I’m looking to collaborate on ...
